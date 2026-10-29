@@ -14,7 +14,7 @@
 
 ## 👋 Sobre mí
 
-Estudio la **Licenciatura en Ciencia de Datos en Organizaciones** en la UNLP, una carrera que combina programación, bases de datos y matemática con materias de gestión. Me interesa usar los datos para entender cómo funcionan las organizaciones y ayudarlas a tomar mejores decisiones.
+Estudio la **Ciencia de Datos en Organizaciones** en la UNLP, una carrera que combina programación, bases de datos y matemática con materias de gestión. Me interesa usar los datos para entender cómo funcionan las organizaciones y ayudarlas a tomar mejores decisiones.
 
 En este perfil voy subiendo los proyectos y trabajos de la carrera.
 
