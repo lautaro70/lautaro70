@@ -41,7 +41,7 @@ En este perfil voy subiendo los proyectos y trabajos de la carrera.
 
 ## 🎓 Progreso en la carrera
 
-**Licenciatura en Ciencia de Datos en Organizaciones** — Facultad de Informática y Facultad de Ciencias Económicas, UNLP
+**Ciencia de Datos en Organizaciones** — Facultad de Informática y Facultad de Ciencias Económicas, UNLP
 
 | Primer año | Estado |
 |------------|--------|
