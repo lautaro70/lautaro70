@@ -43,23 +43,23 @@ En este perfil voy subiendo los proyectos y trabajos de la carrera.
 
 | Primer año | Estado |
 |------------|--------|
-| Algoritmos y Programación I | ✅ Aprobada |
-| Algoritmos y Programación II | ✅ Aprobada |
-| Matemática A | ❔ COMPLETAR |
-| Matemática B | ❔ COMPLETAR |
-| Gestión de las Organizaciones | ❔ COMPLETAR |
-| Economía y Medición Económica | ❔ COMPLETAR |
+| Algoritmos y Programación I | ✅ Promocionada |
+| Algoritmos y Programación II | ✅ Promocionada |
+| Matemática A | ✅ Promocionada |
+| Matemática B | ✅ Promocionada |
+| Gestión de las Organizaciones | ✅ Promocionada |
+| Economía y Medición Económica | ✅ Promocionada |
 
 | Segundo año | Estado |
 |-------------|--------|
-| Taller de Lenguajes | ✅ Aprobada |
-| Introducción a Base de Datos | ✅ Aprobada |
-| Contabilidad e Interpretación de Estados Contables | ❔ COMPLETAR |
-| Matemática C | 🚧 En curso |
+| Taller de Lenguajes | ✅ Promocionada |
+| Introducción a Base de Datos | ✅ Promocionada |
+| Contabilidad e Interpretación de Estados Contables | ✅ Promocionada |
+| Matemática C | ✅ Aprobada |
 | Base de Datos | 🚧 En curso |
 | Procesos de Negocio | 🚧 En curso |
-| Matemática D | ❔ COMPLETAR |
-| Inglés | ❔ COMPLETAR |
+| Matemática D | 🚧 En curso |
+| Inglés | ✅ Aprobada |
 
 <details>
 <summary><b>Tercer y cuarto año</b></summary>
